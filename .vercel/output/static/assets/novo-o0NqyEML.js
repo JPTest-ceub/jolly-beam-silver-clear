@@ -1,0 +1,1 @@
+import{v as e}from"./store-D7V8KT4D.js";import{n as t,t as n}from"./shell-DTAEL5ur.js";import{t as r}from"./property-form-H0J8gLmA.js";var i=e();function a(){return(0,i.jsx)(t,{allow:[`admin`],children:(0,i.jsx)(n,{title:`Cadastro de imóvel`,subtitle:`Registre as informações do imóvel.`,crumb:`Cadastro de imóvel`,children:(0,i.jsx)(r,{})})})}export{a as component};

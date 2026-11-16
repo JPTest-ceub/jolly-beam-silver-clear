@@ -1,0 +1,1 @@
+import{v as e}from"./store-D7V8KT4D.js";import{n as t}from"./shell-DTAEL5ur.js";import{t as n}from"./overview-Cf6HyoIK.js";var r=e();function i(){return(0,r.jsx)(t,{allow:[`admin`],children:(0,r.jsx)(n,{title:`Operações da imobiliária`,subtitle:`Acompanhe informações gerais sobre a operação.`,crumb:`Operações`,panel:`Visão consolidada dos módulos`})})}export{i as component};

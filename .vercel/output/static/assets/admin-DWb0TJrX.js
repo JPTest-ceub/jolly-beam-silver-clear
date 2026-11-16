@@ -1,0 +1,1 @@
+import{v as e}from"./store-D7V8KT4D.js";import{n as t}from"./shell-DTAEL5ur.js";import{t as n}from"./overview-Cf6HyoIK.js";var r=e();function i(){return(0,r.jsx)(t,{allow:[`admin`],children:(0,r.jsx)(n,{title:`Visão geral administrativa`,subtitle:`Acompanhe os principais módulos e a atividade recente.`,crumb:`Visão geral`,panel:`Atividade recente`})})}export{i as component};
